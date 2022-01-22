@@ -10,4 +10,8 @@ intro:
   dynamic-route: 動的ルートのデモ
   hi: こんにちは、{name}!
   whats-your-name: 君の名は。
+greeting:
+  morning: おはようございます
+  afternoon: こんにちは
+  evening: こんばんは
 not-found: 見つかりませんでした

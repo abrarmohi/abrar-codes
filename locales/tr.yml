@@ -11,4 +11,8 @@ intro:
   hi: Merhaba, {name}!
   aka: Ayrıca şöyle bilinir
   whats-your-name: Adınız nedir?
+greeting:
+  morning: Günaydın
+  afternoon: Tünaydın
+  evening: İyi akşamlar
 not-found: Bulunamadı

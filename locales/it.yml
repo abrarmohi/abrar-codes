@@ -10,4 +10,8 @@ intro:
   dynamic-route: Demo di rotta dinamica
   hi: Ciao, {name}!
   whats-your-name: Come ti chiami?
+greeting:
+  morning: Buon giorno
+  afternoon: Buon pomeriggio
+  evening: Buona serata
 not-found: Non trovato

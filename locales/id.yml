@@ -11,4 +11,8 @@ intro:
   hi: Halo, {name}!
   aka: Juga diketahui sebagai
   whats-your-name: Siapa nama anda?
+greeting:
+  morning: Selamat pagi
+  afternoon: Selamat siang
+  evening: Selamat malam
 not-found: Tidak ditemukan

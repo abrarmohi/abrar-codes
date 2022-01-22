@@ -8,7 +8,10 @@ button:
 intro:
   desc: Plantilla de Inicio de Vite Dogmática
   dynamic-route: Demo de ruta dinámica
-  hi: ¡Hola, {name}!
   aka: También conocido como
   whats-your-name: ¿Cómo te llamas?
+greeting:
+  morning: Buenos días
+  afternoon: Buenas tardes
+  evening: Buenas noches
 not-found: No se ha encontrado

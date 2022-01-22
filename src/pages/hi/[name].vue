@@ -9,6 +9,17 @@ const { t } = useI18n()
 watchEffect(() => {
   user.setNewName(props.name)
 })
+
+const greet = ref('')
+const today = new Date()
+const curHr = today.getHours()
+
+if (curHr < 12)
+  greet.value = 'morning'
+else if (curHr < 18)
+  greet.value = 'afternoon'
+else
+  greet.value = 'evening'
 </script>
 
 <template>
@@ -17,7 +28,7 @@ watchEffect(() => {
       <carbon-pedestrian class="inline-block" />
     </p>
     <p>
-      {{ t('intro.hi', { name: props.name }) }}
+      {{ `${t(`greeting.${greet}`)}, ${props.name}!` }}
     </p>
 
     <p class="text-sm opacity-50">

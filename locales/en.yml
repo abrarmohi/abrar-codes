@@ -11,4 +11,8 @@ intro:
   hi: Hi, {name}!
   aka: Also known as
   whats-your-name: What's your name?
+greeting:
+  morning: Good Morning
+  afternoon: Good Afternoon
+  evening: Good Evening
 not-found: Not found

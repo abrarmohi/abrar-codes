@@ -10,4 +10,8 @@ intro:
   dynamic-route: Демо динамического маршрута
   hi: Привет, {name}!
   whats-your-name: Как тебя зовут?
+greeting:
+  morning: Доброе утро
+  afternoon: Добрый день
+  evening: Добрый вечер
 not-found: Не найден

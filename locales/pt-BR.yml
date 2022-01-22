@@ -11,4 +11,8 @@ intro:
   hi: Olá, {name}!
   aka: Também conhecido como
   whats-your-name: Qual é o seu nome?
+greeting:
+  morning: Bom Dia
+  afternoon: Boa tarde
+  evening: Boa noite
 not-found: Não encontrado

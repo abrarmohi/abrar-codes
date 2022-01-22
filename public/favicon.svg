@@ -1,9 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <style>
-    path { fill: #222; }
-    @media (prefers-color-scheme: dark) {
-      path { fill: #ffffff; }
-    }
-  </style>
-  <path d="M27.562 26L17.17 8.928l2.366-3.888L17.828 4L16 7.005L14.17 4l-1.708 1.04l2.366 3.888L4.438 26H2v2h28v-2zM16 10.85L25.22 26H17v-8h-2v8H6.78z" />
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff } 
+		.t1 { font-size: 450px;fill: #000000;font-weight: 600;font-family: "OpenSans-Semibold", "Open Sans" } 
+	</style>
+	<path id="Shape 1" class="s0" d="m16 32c-8.8 0-16-7.2-16-16c0-8.8 7.2-16 16-16c8.8 0 16 7.2 16 16c0 8.8-7.2 16-16 16z" />
+	<text id="{a}" style="transform: matrix(.04,0,0,.04,3.96,20.97)" >
+		<tspan x="0" y="0" class="t1">{</tspan><tspan  y="0" class="t1">a</tspan><tspan  y="0" class="t1">}
+</tspan>
+	</text>
 </svg>

@@ -11,4 +11,8 @@ intro:
   hi: 你好，{name}
   aka: 也叫
   whats-your-name: 输入你的名字
+greeting:
+  morning: 早上好
+  afternoon: 下午好
+  evening: 晚上好
 not-found: 未找到页面
