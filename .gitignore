@@ -1,11 +1,26 @@
-.DS_Store
-.vite-ssg-dist
-.vite-ssg-temp
-*.local
+# distribution files
 dist
 dist-ssr
+
+# packages
 node_modules
+
+# ssg files
+.vite-ssg-dist
+.vite-ssg-temp
+
+# system files
 .idea/
 *.log
+.DS_Store
+*.local
+
+# editors config
 .vscode
+
+# deployment cache
 .firebase
+
+# dev auto generated files
+src/auto-imports.d.ts
+src/components.d.ts
